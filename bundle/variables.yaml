@@ -1,0 +1,4 @@
+variables:
+- team: stu-ci-casc-workshop
+- admin-user: stubrowncloudbees-admin
+- manager-user: stubrowncloudbees
